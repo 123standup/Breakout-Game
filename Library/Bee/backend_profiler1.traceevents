@@ -1,0 +1,491 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1670792788464196, "dur":854, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670792788465062, "dur":83, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1670792788465161, "dur":23, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1670792788465184, "dur":156, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1670792788465351, "dur":546, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670792788465897, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670792788499991, "dur":22, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670792788500063, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670792788500070, "dur":10, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670792788500080, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670792788500090, "dur":6, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670792788500096, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670792788500103, "dur":6, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670792788500109, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670792788500115, "dur":6, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670792788500121, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670792788500128, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670792788500133, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670792788500140, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670792788500145, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670792788500151, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670792788500156, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670792788500163, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670792788500169, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670792788500179, "dur":3299, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1670792788465272, "dur":652, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670792788465929, "dur":2845, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670792788468775, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1670792788468782, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670792788469205, "dur":166, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1670792788469374, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1670792788469384, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670792788469863, "dur":637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1670792788470501, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1670792788470518, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670792788470539, "dur":566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1670792788471117, "dur":482, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1670792788471603, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670792788471614, "dur":597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1670792788472223, "dur":27249, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670792788499478, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670792788499487, "dur":444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670792788499943, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":1, "ts":1670792788499951, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670792788465283, "dur":654, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670792788465937, "dur":2869, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670792788468806, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1670792788468856, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670792788470587, "dur":583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1670792788471180, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1670792788471194, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670792788471213, "dur":731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1670792788472038, "dur":11304, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670792788483346, "dur":207, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670792788483619, "dur":787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670792788484760, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670792788484947, "dur":42, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670792788485037, "dur":833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670792788485877, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670792788485945, "dur":31, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670792788486165, "dur":838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670792788487010, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670792788487101, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670792788487109, "dur":933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670792788488051, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670792788488094, "dur":22, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670792788488125, "dur":666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670792788488798, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670792788488865, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670792788488998, "dur":930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670792788489934, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670792788489944, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670792788489953, "dur":978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670792788490937, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670792788491065, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670792788491073, "dur":740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670792788491881, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670792788492035, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670792788492053, "dur":577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670792788492666, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1670792788492777, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670792788493049, "dur":489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1670792788493544, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1670792788493652, "dur":37, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670792788493783, "dur":467, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1670792788494256, "dur":5788, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670792788465283, "dur":664, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670792788465947, "dur":2878, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670792788468835, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1670792788468877, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670792788470598, "dur":759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1670792788471370, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1670792788471385, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670792788471396, "dur":564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1670792788472032, "dur":2859, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788474895, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670792788475039, "dur":532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788475582, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788475661, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670792788475670, "dur":816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788476492, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788476506, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670792788476552, "dur":638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788477214, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788477390, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670792788477398, "dur":652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788478058, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788478146, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670792788478154, "dur":756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788478919, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788478992, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670792788479032, "dur":539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788479578, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788479638, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670792788479645, "dur":1405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788481056, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788481119, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670792788481127, "dur":1971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788483783, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788483846, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670792788483867, "dur":1179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788485163, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788485189, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670792788485196, "dur":758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788486062, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788486178, "dur":12, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670792788486442, "dur":918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788487369, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788487469, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670792788487476, "dur":716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788488659, "dur":200, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788488863, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670792788488873, "dur":699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788489584, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788489703, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670792788489711, "dur":1069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788490789, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788490855, "dur":33, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670792788490912, "dur":990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788491910, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788491922, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670792788492004, "dur":729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670792788492813, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1670792788492929, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670792788492938, "dur":766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1670792788493712, "dur":6280, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670792788465296, "dur":656, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670792788465952, "dur":2931, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670792788468884, "dur":602, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1670792788469489, "dur":32, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670792788470276, "dur":768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1670792788471053, "dur":647, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1670792788471704, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670792788471715, "dur":680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1670792788472405, "dur":2437, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout.exe" }}
+,{ "pid":12345, "tid":4, "ts":1670792788474846, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670792788474884, "dur":414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout.exe" }}
+,{ "pid":12345, "tid":4, "ts":1670792788475304, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788475373, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670792788475381, "dur":492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788475879, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788475967, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670792788475974, "dur":869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788476912, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788477020, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670792788477028, "dur":657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788477715, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788477862, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670792788477870, "dur":427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788478303, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788478426, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670792788478442, "dur":755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788479226, "dur":171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788479401, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670792788479408, "dur":563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788479978, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788479988, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670792788479996, "dur":1819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788482028, "dur":295, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788482326, "dur":131, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670792788482517, "dur":1803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788484547, "dur":437, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788484987, "dur":30, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670792788485096, "dur":841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788486035, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788486174, "dur":14, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670792788486311, "dur":732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788487050, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788487119, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670792788487128, "dur":507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788487643, "dur":421, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788488067, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670792788488076, "dur":759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788488900, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788489059, "dur":19, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670792788489087, "dur":495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788489588, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788489653, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670792788489661, "dur":933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788490600, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788490675, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670792788490683, "dur":1086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788491788, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788491925, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670792788492021, "dur":706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670792788492799, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1670792788492899, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670792788492925, "dur":796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1670792788493730, "dur":6267, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670792788465307, "dur":649, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670792788465956, "dur":2878, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670792788468834, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1670792788468884, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670792788470349, "dur":888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1670792788471248, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1670792788471264, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670792788471280, "dur":828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1670792788472173, "dur":3820, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1670792788475997, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670792788476004, "dur":501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1670792788476517, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788476629, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670792788476637, "dur":481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788477124, "dur":234, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788477362, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670792788477369, "dur":631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788478006, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788478080, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670792788478088, "dur":833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788478940, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788478986, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670792788479010, "dur":476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788479492, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788479605, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670792788479614, "dur":881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788480502, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788480590, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670792788480598, "dur":1292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788482068, "dur":357, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788482429, "dur":83, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670792788482521, "dur":1815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788484685, "dur":230, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788484919, "dur":42, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670792788485038, "dur":825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788485870, "dur":280, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788486154, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670792788486166, "dur":882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788487054, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788487122, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670792788487130, "dur":872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788488010, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788488074, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670792788488116, "dur":1109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788489231, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788489242, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670792788489356, "dur":1059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788490422, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788490495, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670792788490504, "dur":711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788491225, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788491290, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670792788491366, "dur":818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788492191, "dur":261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788492456, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670792788492465, "dur":665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670792788493136, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1670792788493144, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670792788493151, "dur":751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1670792788493908, "dur":6148, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788465320, "dur":641, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788465961, "dur":2894, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788468855, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1670792788468919, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788470257, "dur":993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1670792788471261, "dur":521, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1670792788471787, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788471864, "dur":739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1670792788472646, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1670792788472674, "dur":23, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788472923, "dur":583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1670792788473516, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788473699, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788473707, "dur":576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788474291, "dur":163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788474459, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788474512, "dur":457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788474975, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788474990, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788474998, "dur":580, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788475588, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788475680, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788475688, "dur":531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788476226, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788476242, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788476250, "dur":631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788476945, "dur":996, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788478053, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788478062, "dur":775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788478868, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788478924, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788478987, "dur":632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788479627, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788479637, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788479644, "dur":677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788480328, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788480415, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788480423, "dur":436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788480866, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788480926, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788480933, "dur":871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788482033, "dur":1040, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788483077, "dur":445, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788483759, "dur":1193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788485094, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788485212, "dur":19, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788485332, "dur":939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788486352, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788486468, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788486502, "dur":787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788487295, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788487388, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788487396, "dur":1597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788489068, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788489162, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788489170, "dur":731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788489909, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788489999, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788490006, "dur":743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788490757, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788490768, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788490774, "dur":730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788491511, "dur":377, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788491891, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788491899, "dur":768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670792788492783, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1670792788492884, "dur":21, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788492929, "dur":616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1670792788493580, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":6, "ts":1670792788493647, "dur":33, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670792788493740, "dur":404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":6, "ts":1670792788494150, "dur":5872, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788465338, "dur":632, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788465971, "dur":2893, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788468864, "dur":741, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1670792788469609, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788470376, "dur":937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1670792788471368, "dur":386, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1670792788471804, "dur":83, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788472087, "dur":585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1670792788472704, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788472804, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788473060, "dur":521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788473588, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788473677, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788473685, "dur":503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788474253, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788474272, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788474280, "dur":447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788474734, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788474847, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788474878, "dur":550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788475495, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788475582, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788475611, "dur":724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788476342, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788476359, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788476367, "dur":492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788476930, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788477051, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788477115, "dur":397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788477518, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788477579, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788477714, "dur":655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788478375, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788478386, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788478393, "dur":716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788479115, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788479177, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788479184, "dur":1521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788480714, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788480776, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788480784, "dur":913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788481957, "dur":324, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788482285, "dur":75, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788483554, "dur":1262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788485005, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788485137, "dur":40, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788485188, "dur":870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788486152, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788486266, "dur":17, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788486314, "dur":639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788486959, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788487047, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788487056, "dur":994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788488056, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788488091, "dur":23, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788488121, "dur":970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788489100, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788489155, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788489164, "dur":831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788490001, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788490061, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788490068, "dur":1080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788491155, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788491233, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788491241, "dur":792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788492044, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788492123, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788492140, "dur":1027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670792788493174, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1670792788493226, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670792788493232, "dur":648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1670792788493887, "dur":6119, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788465345, "dur":638, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788465983, "dur":2892, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788468876, "dur":476, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1670792788469357, "dur":67, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788470199, "dur":724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1670792788470934, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1670792788470949, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788470962, "dur":714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1670792788471717, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1670792788471734, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788471975, "dur":609, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1670792788472641, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1670792788472658, "dur":19, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788472892, "dur":544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1670792788473446, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788473465, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788473496, "dur":522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788474025, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788474131, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788474152, "dur":479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788474674, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788474845, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788474863, "dur":576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788475479, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788475593, "dur":17, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788475620, "dur":606, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788476233, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788476338, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788476347, "dur":585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788477012, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788477123, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788477133, "dur":435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788477574, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788477644, "dur":21, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788477686, "dur":679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788478372, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788478446, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788478454, "dur":759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788479362, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788479431, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788479439, "dur":578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788480023, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788480033, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788480066, "dur":813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788480885, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788480951, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788480959, "dur":1095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788482470, "dur":494, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788482968, "dur":550, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788483558, "dur":815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788484731, "dur":318, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788485053, "dur":25, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788485332, "dur":864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788486306, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788486414, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788486455, "dur":829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788487292, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788487309, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788487354, "dur":1648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788489177, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788489346, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788489355, "dur":1026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788490390, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788490454, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788490462, "dur":787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788491255, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788491265, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788491274, "dur":1020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670792788492300, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":8, "ts":1670792788492480, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788492709, "dur":474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":8, "ts":1670792788493189, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1670792788493253, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670792788493258, "dur":633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/pohsunlin/Documents/ncsu/CSC561/forWindows/3D_Breakout_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1670792788493897, "dur":6136, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670792788506434, "dur":985, "ph":"X", "name": "ProfilerWriteOutput" }
+,
